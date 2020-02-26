@@ -30,11 +30,9 @@
   
 </table>
 
-1 занятие (26.02.2020)  
-[Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные. Строки, ввод и форматирование](https://github.com/rogovich/2020_DPO_PythonProg/tree/master/1_Introduction)
+##  Материалы для тренировки
 
-Материалы для тренировки  
-[Ссылки и краткие описания](https://github.com/rogovich/2020_DPO_PythonProg/blob/master/dopmaterialy.md)
+[Ссылки и краткие описания](https://github.com/roctbb/dpo-python/blob/master/dopmaterialy.md)
 
 ## Формы контроля
 
@@ -55,4 +53,4 @@
 Если файл .ipynb сохраняется как текст или с лишним расширением (например, .txt), то нужно выбрать при сохранении тип файла все файлы, 
 а не текст, или после сохранения убрать вручную расширение, переименовав файл.
 
-Подробнее про работу с GitHub можно прочитать [здесь](https://github.com/rogovich/2020_DPO_PythonProg/blob/master/1_Introduction/2020_DPO_0_git.ipynb)
+Подробнее про работу с GitHub можно прочитать [здесь](hhttps://nbviewer.jupyter.org/github/roctbb/dpo-python/blob/master/1%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20%2826-02%29/git.ipynb).
