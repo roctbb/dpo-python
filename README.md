@@ -32,10 +32,10 @@
     <td>04.03</td><td><p>"Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков."</p></td>
      <td><a href="https://github.com/roctbb/dpo-python/tree/master/2%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20(04-03)">Материалы</a></td><td>
       <a href="https://github.com/roctbb/dpo-python/tree/master/1%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20(26-02)/2020_DPO_0_Refresher.ipynb">Refresher: вспоминаем, что делали в прошлый раз</a><br>
-<a href="https://github.com/roctbb/dpo-python/tree/master/1%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20(26-02)/2020_DPO_2_0_Problems.ipynbЗ">Задачи для занятия</a>
+<a href="https://nbviewer.jupyter.org/github/roctbb/dpo-python/blob/master/2%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20%2804-03%29/2020_DPO_2_0_Problems.ipynb">Задачи для занятия</a>
       
       
-      </td>
+  </td>
   </tr>
   
 </table>
