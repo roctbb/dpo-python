@@ -25,13 +25,17 @@
    </tr>
   <tr>
     <td>26.02</td><td><p>Python для анализа данных. Знакомство с Jupyter Notebook и языком разметки markdown. Знакомство с git: основы работы с репозиториями через веб-интерфейс. Гид по стилю PEP8.</p><p>Знакомство с типами данных в Python: целые и вещественные числа. Логические переменные. Строки. Ввод и вывод значений, форматирование строк.</p></td>
-     <td><a href="https://github.com/roctbb/dpo-python/tree/master/1%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20(26-02)">Материалы</a></td><td>
-* [Refresher: вспоминаем, что делали в прошлый раз](https://github.com/roctbb/dpo-python/tree/master/1%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20(26-02)/2020_DPO_0_Refresher.ipynb)
-* [Задачи для занятия](https://github.com/roctbb/dpo-python/tree/master/1%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20(26-02)/2020_DPO_2_0_Problems.ipynb)</td>
+     <td><a href="https://github.com/roctbb/dpo-python/tree/master/1%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20(26-02)">Материалы</a></td><td><a href="https://nbviewer.jupyter.org/github/roctbb/dpo-python/blob/master/1%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20%2826-02%29/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.ipynb">Задачи на семинар</a>
+</td>
   </tr>
    <tr>
     <td>04.03</td><td><p>"Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков."</p></td>
-     <td><a href="https://github.com/roctbb/dpo-python/tree/master/2%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20(04-03)">Материалы</a></td><td><a href="https://nbviewer.jupyter.org/github/roctbb/dpo-python/blob/master/1%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20%2826-02%29/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.ipynb">Задачи на семинар</a></td>
+     <td><a href="https://github.com/roctbb/dpo-python/tree/master/2%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20(04-03)">Материалы</a></td><td>
+      <a href="https://github.com/roctbb/dpo-python/tree/master/1%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20(26-02)/2020_DPO_0_Refresher.ipynb">Refresher: вспоминаем, что делали в прошлый раз</a><br>
+<a href="https://github.com/roctbb/dpo-python/tree/master/1%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20(26-02)/2020_DPO_2_0_Problems.ipynbЗ">Задачи для занятия</a>
+      
+      
+      </td>
   </tr>
   
 </table>
