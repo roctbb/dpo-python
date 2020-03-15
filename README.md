@@ -29,15 +29,24 @@
 </td>
   </tr>
    <tr>
-    <td>04.03</td><td><p>"Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков."</p></td>
+    <td>04.03</td><td>
+      <p>"Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков."</p>
+      </td>
      <td><a href="https://github.com/roctbb/dpo-python/tree/master/2%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20(04-03)">Материалы</a></td><td>
       <a href="https://nbviewer.jupyter.org/github/roctbb/dpo-python/blob/master/2%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20%2804-03%29/2020_DPO_0_Refresher.ipynb">Refresher: вспоминаем, что делали в прошлый раз</a><br>
 <a href="https://nbviewer.jupyter.org/github/roctbb/dpo-python/blob/master/2%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20%2804-03%29/2020_DPO_2_0_Problems.ipynb">Задачи для занятия</a>
-      
-      
   </td>
   </tr>
-  
+   <tr>
+      <td>11.03</td><td>
+      <p>"Контейнеры в Python: кортежи, множества, словари. Управляющие конструкции: условия и циклы."</p>
+      </td>
+     <td><a href="https://github.com/roctbb/dpo-python/tree/master/3%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20(11-03)">Материалы</a></td><td>
+      <a href="https://nbviewer.jupyter.org/github/roctbb/dpo-python/blob/master/3%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20%2811-03%29/2020_DPO_2_0_Problems_Solution.ipynb">Задачи 1</a><br>
+      
+<a href="https://nbviewer.jupyter.org/github/roctbb/dpo-python/blob/master/3%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20%2811-03%29/2020_DPO_3_0_Problems.ipynb">Задачи 2</a>
+      
+   </tr>
 </table>
 
 ##  Материалы для тренировки
