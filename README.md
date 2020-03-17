@@ -52,7 +52,7 @@
       <p>"Регулярные выражения."</p>
       </td>
      <td><a href="https://github.com/roctbb/dpo-python/tree/master/4%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20(18-03)">Материалы</a></td><td>
-      <a href="https://nbviewer.jupyter.org/github/roctbb/dpo-python/blob/master/4%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20%2818-03%29/2020_DPO_3_0_RegExp_Problems.ipynb">Задачи </a>
+      <a href="https://github.com/roctbb/dpo-python/blob/master/4%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20(18-03)/2020_DPO_3_0_RegExp_Problems.ipynb">Задачи </a>
    </tr>
 </table>
 
