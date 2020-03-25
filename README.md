@@ -25,34 +25,44 @@
    </tr>
   <tr>
     <td>26.02</td><td><p>Python для анализа данных. Знакомство с Jupyter Notebook и языком разметки markdown. Знакомство с git: основы работы с репозиториями через веб-интерфейс. Гид по стилю PEP8.</p><p>Знакомство с типами данных в Python: целые и вещественные числа. Логические переменные. Строки. Ввод и вывод значений, форматирование строк.</p></td>
-     <td><a href="https://github.com/roctbb/dpo-python/tree/master/1%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20(26-02)">Материалы</a></td><td><a href="https://nbviewer.jupyter.org/github/roctbb/dpo-python/blob/master/1%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20%2826-02%29/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.ipynb">Задачи на семинар</a>
+     <td><a href="https://github.com/roctbb/dpo-python/tree/master/Lesson%201%20(26-02)">Материалы</a></td><td><a href="https://nbviewer.jupyter.org/github/roctbb/dpo-python/blob/master/Lesson%201%20(26-02)/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.ipynb">Задачи на семинар</a>
 </td>
   </tr>
    <tr>
     <td>04.03</td><td>
       <p>"Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков."</p>
       </td>
-     <td><a href="https://github.com/roctbb/dpo-python/tree/master/2%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20(04-03)">Материалы</a></td><td>
-      <a href="https://nbviewer.jupyter.org/github/roctbb/dpo-python/blob/master/2%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20%2804-03%29/2020_DPO_0_Refresher.ipynb">Refresher: вспоминаем, что делали в прошлый раз</a><br>
-<a href="https://nbviewer.jupyter.org/github/roctbb/dpo-python/blob/master/2%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20%2804-03%29/2020_DPO_2_0_Problems.ipynb">Задачи для занятия</a>
+     <td><a href="https://github.com/roctbb/dpo-python/tree/master/Lesson%202%20(04-03)">Материалы</a></td><td>
+      <a href="https://nbviewer.jupyter.org/github/roctbb/dpo-python/blob/master/Lesson%202%20(04-03)/2020_DPO_0_Refresher.ipynb">Refresher: вспоминаем, что делали в прошлый раз</a><br>
+<a href="https://nbviewer.jupyter.org/github/roctbb/dpo-python/blob/master/Lesson%202%20(04-03)/2020_DPO_2_0_Problems.ipynb">Задачи для занятия</a>
   </td>
   </tr>
    <tr>
       <td>11.03</td><td>
       <p>"Контейнеры в Python: кортежи, множества, словари. Управляющие конструкции: условия и циклы."</p>
       </td>
-     <td><a href="https://github.com/roctbb/dpo-python/tree/master/3%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20(11-03)">Материалы</a></td><td>
-      <a href="https://nbviewer.jupyter.org/github/roctbb/dpo-python/blob/master/3%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20%2811-03%29/2020_DPO_2_0_Problems_Solution.ipynb">Задачи 1</a><br>
+     <td><a href="https://github.com/roctbb/dpo-python/tree/master/Lesson%203%20(11-03)">Материалы</a></td><td>
+      <a href="https://nbviewer.jupyter.org/github/roctbb/dpo-python/blob/master/Lesson%203%20/2020_DPO_2_0_Problems_Solution.ipynb">Задачи 1</a><br>
       
-<a href="https://nbviewer.jupyter.org/github/roctbb/dpo-python/blob/master/3%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20%2811-03%29/2020_DPO_3_0_Problems.ipynb">Задачи 2</a>
+<a href="https://nbviewer.jupyter.org/github/roctbb/dpo-python/blob/master/Lesson%203%20/2020_DPO_3_0_Problems.ipynb">Задачи 2</a>
       
    </tr>
    <tr>
       <td>18.03</td><td>
       <p>"Регулярные выражения."</p>
       </td>
-     <td><a href="https://github.com/roctbb/dpo-python/tree/master/4%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20(18-03)">Материалы</a></td><td>
-      <a href="https://github.com/roctbb/dpo-python/blob/master/4%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20(18-03)/2020_DPO_3_0_RegExp_Problems.ipynb">Задачи </a>
+     <td><a href="https://github.com/roctbb/dpo-python/tree/master/Lesson%204%20(18-03)">Материалы</a></td><td>
+      <a href="https://github.com/roctbb/dpo-python/blob/master/Lesson%204%20(18-03)/2020_DPO_3_0_RegExp_Problems.ipynb">Задачи </a>
+   </tr>
+   <tr>
+      <td>25.03</td><td>
+      <p>"Цикл for, лабораторная 1."</p>
+      </td>
+     <td><a href="https://github.com/roctbb/dpo-python/tree/master/Lesson%205%20(25-03)">Материалы</a></td><td>
+      <a href="https://github.com/roctbb/dpo-python/blob/master/Lesson%205%20(25-03)/2020_DPO_4_2_for_exercises.ipynb">Задачи</a><br>
+      <a href="https://github.com/roctbb/dpo-python/blob/master/Problems/1_ClassWork.ipynb"><b>Лабораторная 1</b></a><br>
+<a href="https://www.dropbox.com/request/kTrQlzDKGlnsyufi8f7d"><b>Сдать лабораторную 1</b></a>
+      
    </tr>
 </table>
 
