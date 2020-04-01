@@ -69,6 +69,7 @@
 ##  Материалы для тренировки
 
 [Ссылки и краткие описания](https://github.com/roctbb/dpo-python/blob/master/dopmaterialy.md)
+Задача про ИИ для танка: https://geekclass.ru/open/steps/141
 
 ## Формы контроля
 
