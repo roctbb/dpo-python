@@ -64,6 +64,13 @@
 <a href="https://www.dropbox.com/request/kTrQlzDKGlnsyufi8f7d"><b>Сдать лабораторную 1</b></a>
       
    </tr>
+   <tr>
+      <td>25.03</td><td>
+      <p>"Функции."</p>
+      </td>
+     <td><a href="https://github.com/roctbb/dpo-python/tree/master/Lesson%206%20(08-04)">Материалы</a></td><td>
+      <a href="https://github.com/roctbb/dpo-python/blob/master/Lesson%206%20(08-04)/tasks.md">Задачи</a>
+   </tr>
 </table>
 
 ##  Материалы для тренировки
