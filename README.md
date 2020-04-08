@@ -65,7 +65,7 @@
       
    </tr>
    <tr>
-      <td>25.03</td><td>
+      <td>08.04</td><td>
       <p>"Функции."</p>
       </td>
      <td><a href="https://github.com/roctbb/dpo-python/tree/master/Lesson%206%20(08-04)">Материалы</a></td><td>
