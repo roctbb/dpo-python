@@ -71,6 +71,12 @@
      <td><a href="https://github.com/roctbb/dpo-python/tree/master/Lesson%206%20(08-04)">Материалы</a></td><td>
       <a href="https://github.com/roctbb/dpo-python/blob/master/Lesson%206%20(08-04)/tasks.md">Задачи</a>
    </tr>
+   <tr>
+      <td>15.04</td><td>
+      <p>"Вычисительная сложность и сортировки."</p>
+      </td>
+     <td><a href="https://github.com/roctbb/dpo-python/tree/master/Lesson%207%20(15-04)">Материалы</a></td><td></td>
+   </tr>
 </table>
 
 ##  Материалы для тренировки
