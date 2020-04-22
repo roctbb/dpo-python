@@ -77,6 +77,13 @@
       </td>
      <td><a href="https://github.com/roctbb/dpo-python/tree/master/Lesson%207%20(15-04)">Материалы</a></td><td></td>
    </tr>
+   <tr>
+      <td>22.04</td><td>
+      <p>"Файлы и введение в краулинг."</p>
+      </td>
+     <td><a href="https://github.com/roctbb/dpo-python/tree/master/Lesson%208%20(12-04)">Материалы</a></td><td>
+   <a href="https://github.com/roctbb/dpo-python/blob/master/Lesson%208%20(22-04)/tasks.md">Задачи</a></td>
+   </tr>
 </table>
 
 ##  Материалы для тренировки
