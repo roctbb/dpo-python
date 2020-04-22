@@ -82,7 +82,11 @@
       <p>"Файлы и введение в краулинг."</p>
       </td>
      <td><a href="https://github.com/roctbb/dpo-python/tree/master/Lesson%208%20(22-04)">Материалы</a></td><td>
-   <a href="https://github.com/roctbb/dpo-python/tree/master/Lesson%208%20(22-04)/tasks.md">Задачи</a></td>
+   <a href="https://github.com/roctbb/dpo-python/tree/master/Lesson%208%20(22-04)/tasks.md">Задачи</a><br>
+   <a href="https://github.com/roctbb/dpo-python/blob/master/Problems/2_Homework/2_Homework.ipynb">Лабораторная 2</a><br>
+   <a href="https://www.dropbox.com/request/xp1iXoKi9RZb9YH9DNr3">Сдать лабораторную 2</a>
+   
+   </td>
    </tr>
 </table>
 
