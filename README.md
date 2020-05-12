@@ -97,6 +97,17 @@
    
    </td>
    </tr>
+   <tr>
+      <td>13.05</td><td>
+      <p>"Selenium, API, Excel."</p>
+      </td>
+     <td><a href="https://github.com/roctbb/dpo-python/tree/master/Lesson%2010%20(13-05)">Материалы</a></td><td>
+   <a href="https://github.com/roctbb/dpo-python/blob/master/Problems/3_Howework/3_Homework.ipynb">Лабораторная 3</a><br>
+   <a href="https://www.dropbox.com/request/jAYCpecbJ37W0b4Utwim">Сдать лабораторную 3</a>
+   
+   
+   </td>
+   </tr>
 </table>
 
 ##  Материалы для тренировки
