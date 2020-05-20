@@ -108,7 +108,19 @@
    
    </td>
    </tr>
+   <tr>
+      <td>20.05</td><td>
+      <p>"ООП на python"</p>
+      </td>
+     <td><a href="https://github.com/roctbb/dpo-python/blob/master/Lesson%2011%20(20-05)/">Материалы</a></td><td>
+   <a href="https://github.com/roctbb/dpo-python/blob/master/Lesson%2011%20(20-05)/tasks.md">Задачи</a>
+   
+   
+   </td>
+   </tr>
 </table>
+
+
 
 ##  Материалы для тренировки
 
