@@ -16,7 +16,7 @@ class CoffeeMachine:
         self.milk = 0
         self.coffee = 0
         self.water = 0
-    # makeCup -> bool, addWater, addMilk, addCoffee, hasMilk -> bool, hasWater -> bool, hasCoffee -> ok
+    # makeCup -> bool, addWater, addMilk, addCoffee, hasMilk -> bool, hasWater -> bool, hasCoffee -> bool
 
 
     
@@ -29,16 +29,16 @@ while True:
         print("milk - OK")
         
     if machine.hasWater():
-        print("water - water")
+        print("water - OK")
         
     if machine.hasCoffee():
-        print("coffee - water")
+        print("coffee - OK")
         
     print("")
     
     print("1 - refill water")
     print("2 - refill coffee")
-    print("3 - refill water")
+    print("3 - refill milk")
     print("4 - make cup")
     
     try:
