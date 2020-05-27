@@ -122,7 +122,12 @@
       <td>20.05</td><td>
       <p>Telegram боты</p>
       </td>
-     <td><a href="https://github.com/roctbb/dpo-python/blob/master/Lesson%2012%20(27-05)/">Материалы</a></td><td>
+     <td><a href="https://github.com/roctbb/dpo-python/blob/master/Lesson%2012%20(27-05)/">Материалы</a><br>
+        <a href="https://geekclass.ru/open/steps/2220">Материалы в GeekClass</a>
+        
+   
+   
+   </td><td>
    <a href="https://github.com/roctbb/dpo-python/blob/master/Problems/project_task.md">Итоговый проект</a><br>
    <a href="https://www.dropbox.com/request/AmFDeko8iZTArBryQu2z">Сдать проект</a><br>
    
